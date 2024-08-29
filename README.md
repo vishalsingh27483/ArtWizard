@@ -1,8 +1,6 @@
 
 # ArtWizard
 
-![ArtWizard Logo](path_to_logo_image)
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Model Description](#model-description)
