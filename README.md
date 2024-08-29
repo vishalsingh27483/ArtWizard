@@ -5,7 +5,6 @@
 - [Project Overview](#project-overview)
 - [Model Description](#model-description)
 - [Tech Stack](#tech-stack)
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -29,11 +28,6 @@ ArtWizard is built using a modern tech stack to ensure performance, scalability,
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Python, Flask
 - **Deployment**: Netlify
-
-## Demo
-![ArtWizard Demo](path_to_demo_video)
-
-Check out the demo video to see ArtWizard in action! The video showcases the entire process, from inputting a description to generating and downloading the final artwork.
 
 ## Features
 - **AI-Powered Image Generation**: Generate high-quality images based on user input.
